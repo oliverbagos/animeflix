@@ -1,6 +1,5 @@
-[![Follow me](https://img.shields.io/github/followers/chirag-droid?label=follow%20me&style=social)](https://github.com/chirag-droid)
+[![Follow me](https://img.shields.io/github/followers/chirag-droid?label=follow%20me&style=social)](https://github.com/CSSummit)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chiragdroid)
 
 # Animeflix
 
@@ -16,7 +15,7 @@ You need to have `nodejs` and `git` installed on your pc for following the intru
 
 First download the repository using
 ```
-git clone https://github.com/chirag-droid/animeflix
+git clone https://github.com/CSSummit/animeflix
 ```
 
 This should download this repository to your computer. Next, to download the dependencies run
@@ -31,3 +30,6 @@ npm run start
 ```
 
 This will start the app on http://localhost:3000
+
+## This Project is cloned from
+https://github.com/chirag-droid/animeflix
