@@ -33,3 +33,6 @@ This will start the app on http://localhost:3000
 
 ## This Project is cloned from
 https://github.com/chirag-droid/animeflix
+
+## Project uploaded on netlify
+https://oliveranime.netlify.app/
