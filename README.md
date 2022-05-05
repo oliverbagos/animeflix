@@ -1,4 +1,4 @@
-[![Follow me](https://img.shields.io/github/followers/chirag-droid?label=follow%20me&style=social)](https://github.com/CSSummit)
+[![Follow me](https://img.shields.io/github/followers/CSSummit?label=follow%20me&style=social)](https://github.com/CSSummit)
 
 
 # Animeflix
